@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 I’m college student of Sangga Buana University, 5th semester.<br>🔭 I’m currently working on Building cool web apps with PHP, Laravel, and JavaScript.<br>🤝 I’m looking for help with advanced API development and mastering English for coding collaboration<br>🌱 I’m currently learning Full-stack development, clean code practice and more.<br>⚡ Let us connect !
+🔭 I’m currently working on Building cool web apps with PHP, Laravel, and JavaScript.<br>🤝 I’m looking for help with advanced API development and mastering English for coding collaboration<br>🌱 I’m currently learning Full-stack development, clean code practice and more.<br>⚡ Let us connect !
 
 
 ## 🌐 Socials:
