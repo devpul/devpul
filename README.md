@@ -10,10 +10,7 @@
 
 ###
 
-<<<<<<< HEAD
 # 💻 Tech Stack:
-=======
->>>>>>> 400fe7f984dd05943087b7884804361c9c31c0e5
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -45,12 +42,6 @@
 </div>
 
 ###
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> 400fe7f984dd05943087b7884804361c9c31c0e5
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=devpul&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
