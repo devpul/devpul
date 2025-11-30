@@ -1,5 +1,7 @@
 <img width="1700" height="460" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/c873118e-4c6b-41b1-a4c0-dc30f5d09a26" />
 
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devpul/devpul/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devpul/devpul/output/pacman-contribution-graph.svg">
@@ -8,7 +10,6 @@
 
 ###
 
-# 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
