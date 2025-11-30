@@ -1,4 +1,4 @@
-<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/ea52f61a-60ba-4954-bc49-d8c35e3b9d43" />
+<img width="1700" height="460" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/c873118e-4c6b-41b1-a4c0-dc30f5d09a26" />
 
 # 💫 About Me:
 🔭 I’m currently working on Building cool web apps with PHP, Laravel, and JavaScript.<br>🤝 I’m looking for help with advanced API development and mastering English for coding collaboration<br>🌱 I’m currently learning Full-stack development, clean code practice and more.<br>⚡ Let us connect !
