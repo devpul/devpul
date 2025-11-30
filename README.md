@@ -1,7 +1,6 @@
 <img width="1700" height="460" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/c873118e-4c6b-41b1-a4c0-dc30f5d09a26" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/m-ibnu-hasyim-asshidiq-386318312/) 
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devpul/devpul/output/pacman-contribution-graph-dark.svg">
@@ -11,7 +10,10 @@
 
 ###
 
+<<<<<<< HEAD
 # 💻 Tech Stack:
+=======
+>>>>>>> 400fe7f984dd05943087b7884804361c9c31c0e5
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -43,9 +45,12 @@
 </div>
 
 ###
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 400fe7f984dd05943087b7884804361c9c31c0e5
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=devpul&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -57,11 +62,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=devpul&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devpul/devpul/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devpul/devpul/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/devpul/devpul/output/pacman-contribution-graph.svg">
-</picture>
-
-###
